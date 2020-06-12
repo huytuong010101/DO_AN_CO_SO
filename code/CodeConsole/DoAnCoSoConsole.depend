@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1591060454 source:d:\hocc\doancosoconsole\handle.cpp
+	"handle.h"
+	<stdio.h>
+	<stdlib.h>
+
+1591632117 d:\hocc\doancosoconsole\handle.h
+
+1591839363 source:d:\hocc\doancosoconsole\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	"handle.h"
+
+1591060454 source:d:\bkdocument\doancoso\code\codeconsole\handle.cpp
+	"handle.h"
+	<stdio.h>
+	<stdlib.h>
+
+1591632117 d:\bkdocument\doancoso\code\codeconsole\handle.h
+
+1591843378 source:d:\bkdocument\doancoso\code\codeconsole\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	"handle.h"
+

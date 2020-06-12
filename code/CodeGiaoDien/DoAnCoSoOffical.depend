@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1590562957 source:d:\hocc\doancosooffical\sourse.cpp
+	"GUI.h"
+	<graphics.h>
+	<dos.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1590460769 d:\hocc\doancosooffical\gui.h
+
+1591083869 source:d:\hocc\doancosooffical\main.cpp
+	"GUI.h"
+	"handle.h"
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1591060454 source:d:\hocc\doancosooffical\handle.cpp
+	"handle.h"
+	<stdio.h>
+	<stdlib.h>
+
+1590461134 d:\hocc\doancosooffical\handle.h
+
+1590562957 source:d:\hocc\doancosooffical\gui.cpp
+	"GUI.h"
+	<graphics.h>
+	<dos.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1591628003 source:d:\hocc\doancosooffical\main2.cpp
+	"handle.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1591934890 source:d:\bkdocument\doancoso\code\codegiaodien\gui.cpp
+	"GUI.h"
+	<graphics.h>
+	<dos.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1590460769 d:\bkdocument\doancoso\code\codegiaodien\gui.h
+
+1591060454 source:d:\bkdocument\doancoso\code\codegiaodien\handle.cpp
+	"handle.h"
+	<stdio.h>
+	<stdlib.h>
+
+1590461134 d:\bkdocument\doancoso\code\codegiaodien\handle.h
+
+1591842911 source:d:\bkdocument\doancoso\code\codegiaodien\main.cpp
+	"GUI.h"
+	"handle.h"
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
